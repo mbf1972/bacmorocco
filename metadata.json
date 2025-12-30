@@ -1,0 +1,7 @@
+{
+  "name": "BaccAnalyst Morocco",
+  "description": "An advanced AI-powered platform tailored for Moroccan Baccalaureate students to analyze, solve, and explain national exams with high precision and pedagogical depth.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
